@@ -14,11 +14,11 @@ My reseach interests focuse on Remote Sensing, Computer Vision, Autonomous Drivi
 
 Education
 ======
-| Degree | Period | Institution |  
-|--------|--------|-------------|  
-| Bachelor in Computer Science | 2020-2024 | Macau University of Science and Technology |  
-| MPhil Student | 2024-2026 | The Hong Kong University of Science and Technology |  
-| PhD Student (Expected) | From Fall 2026 | The Hong Kong University of Science and Technology |  
+| Degree                          | Period        | Institution                                |
+|---------------------------------|---------------|--------------------------------------------|
+| Bachelor in Computer Science    | 2020-2024     | Macau University of Science and Technology |
+| MPhil Student                   | 2024-2026     | The Hong Kong University of Science and Technology |
+| PhD Student (Expected)          | From Fall 2026| The Hong Kong University of Science and Technology |
 
 Getting started
 ======
