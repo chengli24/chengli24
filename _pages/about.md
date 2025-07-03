@@ -13,6 +13,7 @@ Education
 Bachelor in Computer Science       2020-2024        Macau University of Science and Technology
 MPhil Student                      2024-2026        the Hong Kong University of Science and Technology
 PhD Student (will)                 From 26Fall      the Hong Kong University of Science and Technology
+
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
