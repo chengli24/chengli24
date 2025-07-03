@@ -14,22 +14,21 @@ My reseach interests focuse on Remote Sensing, Computer Vision, Autonomous Drivi
 
 Education
 ======  
-| Degree                          | Period        | Institution                                |  
-|---------------------------------|---------------|--------------------------------------------|  
+| Degree                          | Period        | Institution                                |   
 | Bachelor in Computer Science    | 2020-2024     | Macau University of Science and Technology |  
 | MPhil Student                   | 2024-2026     | The Hong Kong University of Science and Technology |  
 | PhD Student (Expected)          | From Fall 2026| The Hong Kong University of Science and Technology |  
 
-Getting started
+Work Experiences
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. Research Assistant at AIR Tsinghua University，advised by [Assistant Prof. Zhao Hao](https://air.tsinghua.edu.cn/en/info/1046/1652.htm), from Jan 2024 to present.  
+2. Intern Engineer at Lightwheel Inc. from Mar 2025 to present.  
+3. Intern Network Security Engineer at QiAnXin (Macau) Inc. from Jul 2023 to Aug 2023.  
+4. Research Intern at Lab for Space Research, Macau University of Science and Technology in Jul 2023.  
+5. Research Intern at AIR, Chinese Academy of Science from May 2023 to Jul 2023, advised by [Prof. Zhanfeng Shen](https://people.ucas.ac.cn/~shenzhanfeng)
+6. Research Intern at Peking University, advised by [Prof. Xiuwan Chen](https://sess.pku.edu.cn/info/1157/2012.htm)
 
-Site-wide configuration
+Publications
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
