@@ -13,12 +13,12 @@ I will be a PhD Student at HKUST, majored in IIP (Data Science and Artificial In
 My reseach interests focuse on Remote Sensing, Computer Vision, Autonomous Driving and Machine Learning. I am also a research assistant at AIR, Tsinghua University and an intern autonomous driving algorithm engineer in Lightwheel Inc. advised by [Assistant Prof. Zhao Hao](https://air.tsinghua.edu.cn/en/info/1046/1652.htm). I am selected as the Asian Future Leaders Program (AFLSP) from 2024-2026 (100 students from Asian top University Per Year). I received my bachelor degree in computer science from Macau University of Science and Technology (MUST) with the President Medalist Award in MUST and supervised by [Prof. Xiaolin Tian](https://fie.must.edu.mo/id-1444/person/view/id-539.html).
 
 Education
-======
-| Degree                          | Period        | Institution                                |
-|---------------------------------|---------------|--------------------------------------------|
-| Bachelor in Computer Science    | 2020-2024     | Macau University of Science and Technology |
-| MPhil Student                   | 2024-2026     | The Hong Kong University of Science and Technology |
-| PhD Student (Expected)          | From Fall 2026| The Hong Kong University of Science and Technology |
+======  
+| Degree                          | Period        | Institution                                |  
+|---------------------------------|---------------|--------------------------------------------|  
+| Bachelor in Computer Science    | 2020-2024     | Macau University of Science and Technology |  
+| MPhil Student                   | 2024-2026     | The Hong Kong University of Science and Technology |  
+| PhD Student (Expected)          | From Fall 2026| The Hong Kong University of Science and Technology |  
 
 Getting started
 ======
