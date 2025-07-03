@@ -28,26 +28,25 @@ Work Experiences
 5. Research Intern at AIR, Chinese Academy of Science from May 2023 to Jul 2023, advised by [Prof. Zhanfeng Shen](https://people.ucas.ac.cn/~shenzhanfeng)
 6. Research Intern at Peking University, advised by [Prof. Xiuwan Chen](https://sess.pku.edu.cn/info/1157/2012.htm)
 
+Awards & Prizes
+======
+1. the 2024-2026 Asian Future Leader Scholarship (AFLSP) Awardee.  
+2. the 2024 Presidents Medalist Awardee of Macau University of Science and Technology (Only Selected 6 UG students from the whole university and 1 from the school of CSE).  
+3. Awarded the 2020 - 2021, 2021-2022, 2022-2023 Dean' s Honour List in the School of Computer Science and Engineering, Macau University of Science and Technology.  
+4. Awarded First Prize of the 2024 (19th) Cross-Strait and Hong Kong-Macao College Student Computer Innovation Competition Finals. (Including China Mainland, Taiwan, Hong Kong and Macao)  
+5. Awarded First Prize of the 2024 Zhuhai-Macau Computer Design Competition (Big Data and Artificial Intelligence Technology Application Track).  
+5. Awarded the Bank of China Scholarship for 2021 - 2022.  
+6. Awarded the Dean' s Scholarship for 2021 - 2022 in the School of Computer Science and Engineering, Macau University of Science and Technology.  
+7. Awarded 2023-2024 Academic Excellent Award in the Macau University of Science and Technology.  
+8. Awarded the Grand (First) Prize in the annual finals of the 5th "Bei Dou Star" Innovation and Innovation Competition (Silk Road International Challenge) organized by China Satellite Navigation Association.  
+
 Publications
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+1. Li C*, Zhou K*, Liu T*, Wang Y*, etal. 2025 International Conference on Robotics and Automation (ICRA 2025), AVD2: Accident Video Diffusion for Accident Video Description. (*Indicate Equal Contribution, Accepted, Core A*, Top Conference in Robotics, DOI: https://arxiv.org/abs/2502.14801).
+2. Ma Y*, Huang Y*, Li C*, Chen S*, Yang S, Zheng Y, Li J, Huan Y. 2024 IEEE Biomedical Circuits and Systems Conference (BioCAS), A Hybrid Brain-Computer Interface based Wearable Exoskeleton System for Fine-Grained Hand Rehabilitation. (*Indicates equal contribution, Published, Premier Conference in Biomedical Circuits, DOI: https://ieeexplore.ieee.org/document/10798270 )
+3. Li C, Liang ZX, Gu D, etal. Comprehensive Evaluation of Atmospheric Water Vapor Products from the First Operational Geostationary Hyperspectral Thermal Infrared Sounder (FY-4B/GIIRS). (under review)
+4. Li C, Cui H, Tian X. Applied Sciences, A Novel CA-RegNet model for Macau Wetlands Auto Segmentation Based on GF2 Remote Sensing Images. (Published, SCI JCR Q1, DOI: https://doi.org/10.3390/app132212178 )
+5. Li C, Tian Y, Tian X, Zhai Y, Cui H, etal. Agronomy, An Advancing GCT-Inception-ResNet-V3 Model for Arboreal Pest Identification. (Published, SCI JCR Q1, DOI: https://doi.org/10.3390/agronomy14040864)
+6. Li C, Song M, Ma Y. A Novel TAME-RegNetY Model: Enhancing Plant Pest Identification for Sustainable Environmental Conservation. (Minor Revision, under third round review)
+7. Yang Q, Ye B, Li C, Tian X. Unveiling Mars' Water Potential: A Novel Multi-scale Dynamic Sensory Field Algorithm for Mud Volcano Detection. (Major Revision, under second round review)
+8. Tian Y, Li C, Tian X. China Invention Patent, Image feature recognition method, system, electronic device and storage medium (went public, substantive review in progress, http://epub.cnipa.gov.cn/patent/CN118736345A)
