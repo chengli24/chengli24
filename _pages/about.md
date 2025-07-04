@@ -42,7 +42,7 @@ Awards & Prizes
 
 Services:
 ------
-Reviewer of: IEEE Robotics and Automation Letters (top journal in Robotics); 2025 IROS (top conference in Robotics); Signal, Image and Video Processing (JCR Q3)
+Reviewer of: 2025 IROS (top conference in Robotics); IEEE Robotics and Automation Letters (top journal in Robotics); Signal, Image and Video Processing (JCR Q3)
 
 Publications
 ------
