@@ -10,7 +10,7 @@ Welcome to my homepage. I am now a MPhil student at the Hong Kong Universiy of S
 
 I will be a PhD Student at HKUST, majored in IIP (Data Science and Artificial Intelligence) as a PhD Student in 2026 Fall, supervised by [Associate Prof. Dasa Gu](https://scholar.google.com/citations?user=NUV28h8AAAAJ&hl=en) and [Chair Prof. Pan Hui](https://scholar.google.com/citations?user=dcDrhzMAAAAJ&hl=zh-CN) (IEEE Fellow, MAE, FREng and ACM Distinguished Scientist) (IEEE会士，欧洲科学院院士，英国皇家工程院外籍院士，ACM杰出科学家)， co-supervised by [Prof. Daren Lu (Daren Lyu or Daren Lv)](https://iap.cas.cn/sourcedb/zw/gbzjrc/ys/200908/t20090805_5548911.html)（Academician of Chineses Academy of Sciences) (中国科学院院士), [Prof. Ruizhi Chen](https://scholar.google.com/citations?user=ViEjhlsAAAAJ&hl=zh-CN)  (member of the Finnish Academy of Science and Letters, Previous Director of State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing) (芬兰人文与科学院院士, 测绘遥感信息工程国家重点实验室前主任) and [Prof. Xiangyun Hu](https://scholar.google.com/citations?user=MVFNsJgAAAAJ&hl=en) (Head of the Department of Photogrammetry, WHU) (武汉大学摄影测量系主任).  
 
-My reseach interests focuse on Remote Sensing, Computer Vision, Autonomous Driving and Machine Learning. I am also a research assistant at AIR, Tsinghua University and an intern autonomous driving algorithm engineer in Lightwheel Inc. advised by [Assistant Prof. Zhao Hao](https://air.tsinghua.edu.cn/en/info/1046/1652.htm). I am selected as the Asian Future Leaders Program (AFLSP) from 2024-2026 (100 students from Asian top University Per Year). I received my bachelor degree in computer science from Macau University of Science and Technology (MUST) with the President Medalist Award in MUST and supervised by [Prof. Xiaolin Tian](https://fie.must.edu.mo/id-1444/person/view/id-539.html). My Bachlor GPA at MUST is 3.84/4.00, my MPhil Culmulative Grade Point Average (CGA) at HKUST is 4.30/4.30.  
+My reseach interests focuse on Remote Sensing, Computer Vision, Autonomous Driving and Machine Learning. I am also a research assistant at AIR, Tsinghua University and an intern autonomous driving algorithm engineer in Lightwheel Inc. advised by [Assistant Prof. Zhao Hao](https://air.tsinghua.edu.cn/en/info/1046/1652.htm). I am selected as the Asian Future Leader Scholarship Program (AFLSP) from 2024-2026 (100 students from Asian top University Per Year). I received my bachelor degree in computer science from Macau University of Science and Technology (MUST) with the President Medalist Award in MUST and supervised by [Prof. Xiaolin Tian](https://fie.must.edu.mo/id-1444/person/view/id-539.html). My Bachelor GPA at MUST is 3.84/4.00, my MPhil Culmulative Grade Point Average (CGA) at HKUST is 4.30/4.30.  
 
 Education
 ======  
@@ -21,12 +21,12 @@ Education
 
 Work Experiences
 ======
-1. Research Assistant at AIR Tsinghua University，advised by [Assistant Prof. Zhao Hao](https://air.tsinghua.edu.cn/en/info/1046/1652.htm), from Jan 2024 to present.  
+1. Research Assistant at AIR Tsinghua University, advised by [Assistant Prof. Zhao Hao](https://air.tsinghua.edu.cn/en/info/1046/1652.htm), from Jan 2024 to present.  
 2. Intern Engineer at Lightwheel Inc. from Mar 2025 to present.  
 3. Intern Network Security Engineer at QiAnXin (Macau) Inc. from Jul 2023 to Aug 2023.  
-4. Research Intern at Lab for Space Research, University of Hong Kong (HKU) in Jul 2023.  
-5. Research Intern at AIR, Chinese Academy of Science from May 2023 to Jul 2023, advised by [Prof. Zhanfeng Shen](https://people.ucas.ac.cn/~shenzhanfeng)
-6. Research Intern at Peking University, advised by [Prof. Xiuwan Chen](https://sess.pku.edu.cn/info/1157/2012.htm)
+4. Research Assistant at Lab for Space Research, University of Hong Kong (HKU) in Jul 2023.  
+5. Research Assistant at AIR, Chinese Academy of Science from May 2023 to Jul 2023, advised by [Prof. Zhanfeng Shen](https://people.ucas.ac.cn/~shenzhanfeng)
+6. Research Intern at Peking University, advised by [Prof. Xiuwan Chen](https://sess.pku.edu.cn/info/1157/2012.htm) from Jul 2022 to Aug 2022.
 
 Awards & Prizes
 ======
