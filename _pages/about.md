@@ -40,6 +40,10 @@ Awards & Prizes
 7. Awarded 2023-2024 Academic Excellent Award in the Macau University of Science and Technology.  
 8. Awarded the Grand (First) Prize in the annual finals of the 5th "Bei Dou Star" Innovation and Innovation Competition (Silk Road International Challenge) organized by China Satellite Navigation Association.  
 
+Services:
+------
+Reviewer of: IEEE Robotics and Automation Letters (top journal in Robotics); 2025 IROS (top conference in Robotics); Signal, Image and Video Processing (JCR Q3)
+
 Publications
 ------
 1. Li C\*, Zhou K\*, Liu T\*, Wang Y\*, etal. 2025 International Conference on Robotics and Automation (ICRA 2025), AVD2: Accident Video Diffusion for Accident Video Description. (*Indicate Equal Contribution, Accepted, Core A*, Top Conference in Robotics), [DOI: https://arxiv.org/abs/2502.14801](https://arxiv.org/abs/2502.14801)
