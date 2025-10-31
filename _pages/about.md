@@ -39,6 +39,8 @@ My research interests focus on Remote Sensing, Computer Vision, Autonomous Drivi
 | <img src="{{ '/images/PKU.png' | absolute_url }}" alt="Peking University" width="120"> | **Research Intern — Peking University**<br>*Jul. 2022 – Aug. 2022*<br>Advised by <a href="https://sess.pku.edu.cn/info/1157/2012.htm"><code>Prof. Xiuwan Chen</code></a> |
 | <img src="{{ '/images/MUST.png' | absolute_url }}" alt="MUST State Key Laboratory of Lunar and Planetary Sciences" width="120"> | **Research Assistant — State Key Laboratory of Lunar and Planetary Sciences, Macau University of Science and Technology**<br>*Jul. 2021 – May. 2024*<br>Advised by <a href="https://fie.must.edu.mo/id-1444/person/view/id-539.html"><code>Prof. Xiaolin Tian</code></a> |  
 
+<div style="font-family: 'Times New Roman', Times, serif; line-height: 1.65;" markdown="1">
+
 Awards & Prizes
 ======
 1. the 2024-2026 Asian Future Leader Scholarship (AFLSP) Awardee.  
@@ -140,3 +142,6 @@ Reviewer of: 2025 IROS (top conference in Robotics); IEEE Robotics and Automatio
     **澳門科技大學學報（人文社會科學版）**, 2024, 18(4):123–146.  
     <code>Published</code>  
     DOI: [10.58664/mustjournal.2024.12.007](https://doi.org/10.58664/mustjournal.2024.12.007)
+
+</div>
+  
