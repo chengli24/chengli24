@@ -59,7 +59,7 @@ Services:
 Reviewer of: 2025 IROS (top conference in Robotics); IEEE Robotics and Automation Letters (top journal in Robotics); Signal, Image and Video Processing (JCR Q3)
 
 ## Publications
-[*] Equal contribution (Co-first author). <sup>†</sup> Corresponding author & team leader.
+\* Equal contribution (Co-first author). <sup>†</sup> Corresponding author & team leader.
 
 1. **Li C**\*, Zhou K\*, Liu T\*, Wang Y\*, Zhuang M, Gao H, Jin B, Zhao H.  
    *AVD2: Accident Video Diffusion for Accident Video Description.*  
