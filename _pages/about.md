@@ -25,7 +25,7 @@ Education
 
 |  |  |
 |---|---|
-| <img src="assets/LiAuto.png" alt="LiAuto" width="140"> | **Unitree**  \
+| <img src="LiAuto.png" alt="LiAuto" width="140"> | **Unitree**  \
 *Apr. 2024 – Aug. 2024 · Hangzhou, China*  \
 closely worked with [Yinhuai Wang](https://example.com)  \
 **Topic:** Real World Humanoid-Object Interaction |
