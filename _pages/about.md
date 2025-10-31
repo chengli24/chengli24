@@ -25,24 +25,29 @@ Education
 
 |  |  |
 |---|---|
-| <img src="LiAuto.png" alt="LiAuto" width="140"> | **Unitree**  \
-*Apr. 2024 – Aug. 2024 · Hangzhou, China*  \
-closely worked with [Yinhuai Wang](https://example.com)  \
-**Topic:** Real World Humanoid-Object Interaction |
-| <img src="assets/logos/microsoft.png" alt="Microsoft" width="140"> | **Microsoft Research Asia**  \
-*Apr. 2023 – Mar. 2024 · Beijing, China*  \
-closely worked with [Tianyu He](https://example.com) and [Xu Tan](https://example.com)  \
-**Topic:** Talking Head Generation |
+| <img src="liAuto.png" alt="Li Auto" width="120"> | **Intern LLM Autonomous Driving Algorithm Engineer — Li Auto & Shanghai Innovation Institute**  \
+*Nov. 2025 – present* |
+Advised by [Assistant Prof. Zhao Hao](https://air.tsinghua.edu.cn/en/info/1046/1652.htm), [Assistant Prof. Hongyang Li](https://scholar.google.com/citations?user=Hfrih1EAAAAJ&hl=en), [Dr. Zhihui Hao](https://scholar.google.com/citations?user=E1aaa_kAAAAJ&hl=zh-CN) and Mr. Gaoqiang Wu.|
+| <img src="lightwheel.png" alt="Lightwheel AI Inc." width="120"> | **Intern Engineer — Lightwheel Inc.**  \
+*Mar. 2025 – Sep. 2025* |
+Advised by [Assistant Prof. Zhao Hao](https://air.tsinghua.edu.cn/en/info/1046/1652.htm) |
+| <img src="TsinghuaAIR.jpg" alt="AIR Tsinghua University" width="120"> | **Research Assistant — AIR, Tsinghua University**  \
+*Jan. 2024 – present*  \
+Advised by [Assistant Prof. Zhao Hao](https://air.tsinghua.edu.cn/en/info/1046/1652.htm) |
+| <img src="QAX.jpg" alt="QiAnXin (Macau) Inc." width="120"> | **Intern Network Security Engineer — QiAnXin (Macau) Inc.**  \
+*Jul. 2023 – Aug. 2023* |
+| <img src="HKU.png" alt="HKU LSR" width="120"> | **Research Assistant — Lab for Space Research, The University of Hong Kong (HKU)**  \
+*Jul. 2023* |
+| <img src="CAS.png" alt="AIR, Chinese Academy of Sciences" width="120"> | **Research Assistant — AIR, Chinese Academy of Sciences**  \
+*May 2023 – Jul. 2023*  \
+Advised by [Prof. Zhanfeng Shen](https://people.ucas.ac.cn/~shenzhanfeng) |
+| <img src="PKU.png" alt="Peking University" width="120"> | **Research Intern — Peking University**  \
+*Jul. 2022 – Aug. 2022*  \
+Advised by [Prof. Xiuwan Chen](https://sess.pku.edu.cn/info/1157/2012.htm) |
+| <img src="MUST.png" alt="Peking University" width="120"> | **Research Assistant — State Key Laboratory of Lunar and Planetary Sciences, Macau University of Science and Technology**  \
+*Jul. 2021 – May. 2024*  \
+Advised by [Prof. Xiaolin Tian](https://fie.must.edu.mo/id-1444/person/view/id-539.html) |
 
-Work Experiences
-======
-1. Intern LLM Autonomous Driving Algorithm Engineer in Li Auto and Shanghai Innovation Institute since Nov 2025.
-1. Research Assistant at AIR Tsinghua University, advised by [Assistant Prof. Zhao Hao](https://air.tsinghua.edu.cn/en/info/1046/1652.htm), from Jan 2024 to present.  
-2. Intern Engineer at Lightwheel Inc. from Mar 2025 to present.  
-3. Intern Network Security Engineer at QiAnXin (Macau) Inc. from Jul 2023 to Aug 2023.  
-4. Research Assistant at Lab for Space Research, University of Hong Kong (HKU) in Jul 2023.  
-5. Research Assistant at AIR, Chinese Academy of Science from May 2023 to Jul 2023, advised by [Prof. Zhanfeng Shen](https://people.ucas.ac.cn/~shenzhanfeng)  
-6. Research Intern at Peking University, advised by [Prof. Xiuwan Chen](https://sess.pku.edu.cn/info/1157/2012.htm) from Jul 2022 to Aug 2022.  
 
 Awards & Prizes
 ======
@@ -54,7 +59,8 @@ Awards & Prizes
 5. Awarded the Bank of China Scholarship for 2021 - 2022.  
 6. Awarded the Dean' s Scholarship for 2021 - 2022 in the School of Computer Science and Engineering, Macau University of Science and Technology.  
 7. Awarded 2023-2024 Academic Excellent Award in the Macau University of Science and Technology.  
-8. Awarded the Grand (First) Prize in the annual finals of the 5th "Bei Dou Star" Innovation and Innovation Competition (Silk Road International Challenge) organized by China Satellite Navigation Association.  
+8. Awarded the Grand (First) Prize in the annual finals of the 5th "Bei Dou Star" Innovation and Innovation Competition (Silk Road International Challenge) organized by China Satellite Navigation Association.
+9. Awarded 2025 Dream Builder HKUST Entrepreneurship Center Funding.
 
 Services:
 ------
@@ -67,12 +73,13 @@ Publications
 3. Li C, Liang ZX, Gu D, et al. Comprehensive Evaluation of Atmospheric Water Vapor Products from the First Operational Geostationary Hyperspectral Thermal Infrared Sounder (FY-4B/GIIRS). (Under Review)  
 4. Li C, Cui H, Tian X. A Novel CA-RegNet Model for Macau Wetlands Auto Segmentation Based on GF2 Remote Sensing Images](https://doi.org/10.3390/app132212178). Applied Sciences, 2023. (Published, SCI JCR Q1, DOI: [10.3390/app132212178](https://doi.org/10.3390/app132212178))
 5. Li C, Tian Y, Tian X, Zhai Y, Cui H, et al. An Advancing GCT-Inception-ResNet-V3 Model for Arboreal Pest Identification](https://doi.org/10.3390/agronomy14040864). Agronomy, 2024. (Published, SCI JCR Q1, DOI: [10.3390/agronomy14040864](https://doi.org/10.3390/agronomy14040864))  
-6. Li C, Song M, Ma Y. A Novel TAME-RegNetY Model: Enhancing Plant Pest Identification for Sustainable Environmental Conservation. (Minor Revision, Under Third Round Review)   
-7. Yang Q, Ye B, Li C, Tian X. Unveiling Mars' Water Potential: A Novel Multi-scale Dynamic Sensory Field Algorithm for Mud Volcano Detection. (Major Revision, Under Second Round Review)    
-8. Tian Y, Li C, Tian X. Image Feature Recognition Method, System, Electronic Device and Storage Medium](http://epub.cnipa.gov.cn/patent/CN118736345A). China Invention Patent, 2024. (Public, Substantive Review in Progress, [CN118736345A](http://epub.cnipa.gov.cn/patent/CN118736345A))
-9. Li C, Cui H, Tian X. Remote Sensing Image Segmentation of Wetlands in Macau Based on Machine Learning. Journal of Physics: Conference Series, 2023, 2665:012006. (Published, DOI: [10.1088/1742-6596/2665/1/012006](https://doi.org/10.1088/1742-6596/2665/1/012006))
-10. Li C, Chen S, Ma Y, Song M, Tian X, Cui H. Wheat Pest Identification Based on Deep Learning Techniques. 2024 IEEE 7th International Conference on Big Data and Artificial Intelligence (BDAI), 2024:87-91. (Published, DOI: [10.1109/BDAI62182.2024.10692889](https://doi.org/10.1109/BDAI62182.2024.10692889))
-11. Cui H, Li C. Machine Learning Based River Segmentation with GF-2 Satellite Imagery. AIBDF '24: Proceedings of the 4th Asia-Pacific Artificial Intelligence and Big Data Forum, 2024:325-328. (Published, DOI: [10.1145/3718491.3718545](https://doi.org/10.1145/3718491.3718545))
-12. Chen S\*, Li C\*, Ma Y\*, Liang J, Zhu J, Tian X. Deep Learning Techniques for Lunar Impact Crater Identification Based on CCD and DEM Data. In: Deligiannidis L, et al (eds) CSCE 2024. Communications in Computer and Information Science, vol 2262. Springer. (Published, DOI: [10.1007/978-3-031-85933-5_4](https://doi.org/10.1007/978-3-031-85933-5_4)) (*Co-first authors)
-13. Cui H, Liang J, Li C, Tian X. [Improved Convolutional Neural Network with Attention Mechanisms for River Extraction](https://doi.org/10.3390/w17121762). Water 2025, 17:1762. (Published, DOI: [10.3390/w17121762](https://doi.org/10.3390/w17121762))
-14. 李承, 崔瀚文, 田小林. [基於卷積神經網絡的澳門濕地遙感圖像分割研究](https://doi.org/10.58664/mustjournal.2024.12.007). 澳門科技大學學報（人文社會科學版）, 2024, 18(4):123-146. (Published, DOI: [10.58664/mustjournal.2024.12.007](https://doi.org/10.58664/mustjournal.2024.12.007))  
+6. Li C, Song M, Ma Y. A Novel TAME-RegNetY Model: Enhancing Plant Pest Identification for Sustainable Environmental Conservation. (Minor Revision, Under Third Round Review)
+7. Chen S, Wang K, Pang W, Yang R, Chen Z, Gao R, Lau A, Gu D, Zhang C, Li C<sup>†</sup>. OSDA: A Framework for Open-Set Discovery and Automatic Interpretation of Land-cover in Remote Sensing Imagery. (Under Review now)
+8. Yang Q, Ye B, Li C, Tian X. Unveiling Mars' Water Potential: A Novel Multi-scale Dynamic Sensory Field Algorithm for Mud Volcano Detection. (Major Revision, Under Second Round Review)    
+9. Tian Y, Li C, Tian X. Image Feature Recognition Method, System, Electronic Device and Storage Medium](http://epub.cnipa.gov.cn/patent/CN118736345A). China Invention Patent, 2024. (Public, Substantive Review in Progress, [CN118736345A](http://epub.cnipa.gov.cn/patent/CN118736345A))
+10. Li C, Cui H, Tian X. Remote Sensing Image Segmentation of Wetlands in Macau Based on Machine Learning. Journal of Physics: Conference Series, 2023, 2665:012006. (Published, DOI: [10.1088/1742-6596/2665/1/012006](https://doi.org/10.1088/1742-6596/2665/1/012006))
+11. Li C, Chen S, Ma Y, Song M, Tian X, Cui H. Wheat Pest Identification Based on Deep Learning Techniques. 2024 IEEE 7th International Conference on Big Data and Artificial Intelligence (BDAI), 2024:87-91. (Published, DOI: [10.1109/BDAI62182.2024.10692889](https://doi.org/10.1109/BDAI62182.2024.10692889))
+12. Cui H, Li C. Machine Learning Based River Segmentation with GF-2 Satellite Imagery. AIBDF '24: Proceedings of the 4th Asia-Pacific Artificial Intelligence and Big Data Forum, 2024:325-328. (Published, DOI: [10.1145/3718491.3718545](https://doi.org/10.1145/3718491.3718545))
+13. Chen S\*, Li C\*, Ma Y\*, Liang J, Zhu J, Tian X. Deep Learning Techniques for Lunar Impact Crater Identification Based on CCD and DEM Data. In: Deligiannidis L, et al (eds) CSCE 2024. Communications in Computer and Information Science, vol 2262. Springer. (Published, DOI: [10.1007/978-3-031-85933-5_4](https://doi.org/10.1007/978-3-031-85933-5_4)) (*Co-first authors)
+14. Cui H, Liang J, Li C, Tian X. [Improved Convolutional Neural Network with Attention Mechanisms for River Extraction](https://doi.org/10.3390/w17121762). Water 2025, 17:1762. (Published, DOI: [10.3390/w17121762](https://doi.org/10.3390/w17121762))
+15. 李承, 崔瀚文, 田小林. [基於卷積神經網絡的澳門濕地遙感圖像分割研究](https://doi.org/10.58664/mustjournal.2024.12.007). 澳門科技大學學報（人文社會科學版）, 2024, 18(4):123-146. (Published, DOI: [10.58664/mustjournal.2024.12.007](https://doi.org/10.58664/mustjournal.2024.12.007))  
