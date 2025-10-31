@@ -8,11 +8,11 @@ redirect_from:
 ---
 Welcome to my homepage. I am currently now a MPhil student at the Hong Kong Universiy of Science and Technology (HKUST), supervised by [Associate Prof. Dasa Gu](https://scholar.google.com/citations?user=NUV28h8AAAAJ&hl=en) and [Chair Prof. Alexis Kai Hon Lau](https://scholar.google.com/citations?user=sB519ukAAAAJ&hl=en) (JP, Head of ENVR, HKUST).  
 
-I will be a PhD Student at HKUST, majored in IIP (Data Science and Artificial Intelligence) as a PhD Student in 2026 Fall, supervised by [Associate Prof. Dasa Gu](https://scholar.google.com/citations?user=NUV28h8AAAAJ&hl=en) and [Chair Prof. Pan Hui](https://scholar.google.com/citations?user=dcDrhzMAAAAJ&hl=zh-CN) (IEEE Fellow, MAE, FREng and ACM Distinguished Scientist) (IEEE会士，欧洲科学院院士，英国皇家工程院外籍院士，ACM杰出科学家)， co-supervised by [Prof. Daren Lyu (Daren Lu or Daren Lv)](https://iap.cas.cn/sourcedb/zw/gbzjrc/ys/200908/t20090805_5548911.html)（Academician of Chineses Academy of Sciences) (中国科学院院士), [Prof. Delu Pan](https://ocac.zju.edu.cn/2020/0509/c50525a2094491/pagem.htm)（Academician of Chinese Academy of Engineering) (中国工程院院士) and [Prof. Peng Chen](http://www.sdioi.com/ryxx/1541.html) (中国国家优青).  
+I will be a PhD Student at HKUST, majored in IIP (AI, Data Science and Remote Sensing) as a PhD Student in 2026 Fall, supervised by [Associate Prof. Dasa Gu](https://scholar.google.com/citations?user=NUV28h8AAAAJ&hl=en) and [Chair Prof. Pan Hui](https://scholar.google.com/citations?user=dcDrhzMAAAAJ&hl=zh-CN) (IEEE Fellow, MAE, FREng and ACM Distinguished Scientist) (IEEE会士，欧洲科学院院士，英国皇家工程院外籍院士，ACM杰出科学家)， co-supervised by [Prof. Daren Lyu (Daren Lu or Daren Lv)](https://iap.cas.cn/sourcedb/zw/gbzjrc/ys/200908/t20090805_5548911.html)（Academician of Chineses Academy of Sciences) (中国科学院院士), [Prof. Delu Pan](https://ocac.zju.edu.cn/2020/0509/c50525a2094491/pagem.htm)（Academician of Chinese Academy of Engineering) (中国工程院院士) and [Prof. Peng Chen](http://www.sdioi.com/ryxx/1541.html) (中国国家优青).  
 
 I also fortunately work closely and co-advised by [Prof. Liangpei Zhang](https://scholar.google.com/citations?user=vzj2hcYAAAAJ&hl=en) (IEEE Fellow, IET Fellow, 长江讲座教授), [Prof. Ruizhi Chen](https://scholar.google.com/citations?user=ViEjhlsAAAAJ&hl=zh-CN)  (member of the Finnish Academy of Science and Letters, Previous Director of State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing) (芬兰人文与科学院院士, 测绘遥感信息工程国家重点实验室前主任), [Prof. Xiangyun Hu](https://scholar.google.com/citations?user=MVFNsJgAAAAJ&hl=en) (Head of the Department of Photogrammetry, WHU) (二级教授, 武汉大学摄影测量系主任), and [Prof. Hui Lin](https://scholar.google.com/citations?user=utTxEzYAAAAJ&hl=zh-TW) (FIEAS, FAcSS) (国际亚欧科学院院士, 英国社会科学院院士) during my PhD period.  
 
-My reseach interests focuse on Remote Sensing, Computer Vision, Autonomous Driving and Machine Learning. I am also a research assistant at AIR, Tsinghua University and an intern autonomous driving algorithm engineer in Lightwheel Inc. advised by [Assistant Prof. Zhao Hao](https://air.tsinghua.edu.cn/en/info/1046/1652.htm). I am selected as the Asian Future Leader Scholarship Program (AFLSP) from 2024-2026 (100 students from Asian top University Per Year). I received my bachelor degree in computer science from Macau University of Science and Technology (MUST) with the President Medalist Award in MUST and supervised by [Prof. Xiaolin Tian](https://fie.must.edu.mo/id-1444/person/view/id-539.html). My Bachelor GPA at MUST is 3.84/4.00, my MPhil Culmulative Grade Point Average (CGA) at HKUST is 4.30/4.30.  
+My reseach interests focuse on Remote Sensing, Computer Vision, Autonomous Driving and Machine Learning. I am also a research assistant at AIR, Tsinghua University and an intern LLM autonomous driving algorithm engineer in Li Auto Inc. and Shanghai Innovation Institute advised by [Assistant Prof. Zhao Hao](https://air.tsinghua.edu.cn/en/info/1046/1652.htm), [Assistant Prof. Hongyang Li](https://scholar.google.com/citations?user=Hfrih1EAAAAJ&hl=en), [Dr. Zhihui Hao](https://scholar.google.com/citations?user=E1aaa_kAAAAJ&hl=zh-CN) and Mr. Gaoqiang Wu. I am selected as the Asian Future Leader Scholarship Program (AFLSP) from 2024-2026 (100 students from Asian top University Per Year). I received my bachelor degree in computer science from Macau University of Science and Technology (MUST) with the President Medalist Award in MUST and supervised by [Prof. Xiaolin Tian](https://fie.must.edu.mo/id-1444/person/view/id-539.html). My Bachelor GPA at MUST is 3.84/4.00, my MPhil Culmulative Grade Point Average (CGA) at HKUST is 4.30/4.30.  
 
 Education
 ======  
@@ -21,8 +21,22 @@ Education
 | MPhil Student                   | 2024-2026     | The Hong Kong University of Science and Technology |  
 | PhD Student (Expected)          | From Fall 2026| The Hong Kong University of Science and Technology |  
 
+## Work Experiences
+
+|  |  |
+|---|---|
+| <img src="assets/logos/unitree.png" alt="Unitree" width="140"> | **Unitree**  \
+*Apr. 2024 – Aug. 2024 · Hangzhou, China*  \
+closely worked with [Yinhuai Wang](https://example.com)  \
+**Topic:** Real World Humanoid-Object Interaction |
+| <img src="assets/logos/microsoft.png" alt="Microsoft" width="140"> | **Microsoft Research Asia**  \
+*Apr. 2023 – Mar. 2024 · Beijing, China*  \
+closely worked with [Tianyu He](https://example.com) and [Xu Tan](https://example.com)  \
+**Topic:** Talking Head Generation |
+
 Work Experiences
 ======
+1. Intern LLM Autonomous Driving Algorithm Engineer in Li Auto and Shanghai Innovation Institute since Nov 2025.
 1. Research Assistant at AIR Tsinghua University, advised by [Assistant Prof. Zhao Hao](https://air.tsinghua.edu.cn/en/info/1046/1652.htm), from Jan 2024 to present.  
 2. Intern Engineer at Lightwheel Inc. from Mar 2025 to present.  
 3. Intern Network Security Engineer at QiAnXin (Macau) Inc. from Jul 2023 to Aug 2023.  
