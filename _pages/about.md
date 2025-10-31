@@ -89,7 +89,7 @@ Reviewer of: 2025 IROS (top conference in Robotics); IEEE Robotics and Automatio
    <code>Published</code> <code>SCI JCR Q1</code>  
    DOI: [10.3390/agronomy14040864](https://doi.org/10.3390/agronomy14040864)
 
-6. **Li C, Song M, Ma Y.**  
+6. **Li C, Ma Y.**  
    *A Novel TAME-RegNetY Model: Enhancing Plant Pest Identification for Sustainable Environmental Conservation.*  
    <code>Minor Revision</code> <code>Under 3rd Round Review</code>
 
