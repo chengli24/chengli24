@@ -63,14 +63,14 @@ Reviewer of: 2025 IROS (top conference in Robotics); IEEE Robotics and Automatio
 
 1. **Li C**\*, Zhou K\*, Liu T\*, Wang Y\*, Zhuang M, Gao H, Jin B, Zhao H.  
    *AVD2: Accident Video Diffusion for Accident Video Description.*  
-   **ICRA 2025** (International Conference on Robotics and Automation)· Core A · Top Robotics Conference.
-    <code>Published</code>
+   **ICRA 2025** (International Conference on Robotics and Automation)· Core A · Top Robotics Conference.  
+   <code>Published</code>  
    Preprint: [arXiv:2502.14801](https://arxiv.org/abs/2502.14801)
 
 3. Ma Y\*, Huang Y\*, **Li C**\*, Chen S\*, Yang S, Zheng Y, Li J, Huan Y.  
    *A Hybrid Brain-Computer Interface based Wearable Exoskeleton System for Fine-Grained Hand Rehabilitation.*  
-   **IEEE BioCAS 2024** (IEEE Biomedical Circuits and Systems Conference)· Premier Biomedical Circuits Conference.
-    <code>Published</code>
+   **IEEE BioCAS 2024** (IEEE Biomedical Circuits and Systems Conference)· Premier Biomedical Circuits Conference.  
+   <code>Published</code>  
    DOI: [10.1109/BDAI62182.2024.10692889](https://ieeexplore.ieee.org/document/10798270)
 
 5. **Li C**, Liang Z.-X., Gu D., et al.  
