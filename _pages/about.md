@@ -14,12 +14,13 @@ I also work closely with and am co-advised by <a href="https://scholar.google.co
 
 My research interests focus on Remote Sensing, Computer Vision, Autonomous Driving, and Machine Learning. I am also a research assistant at AIR, Tsinghua University, and an intern LLM autonomous driving algorithm engineer at Li Auto Inc. and Shanghai Innovation Institute, advised by <a href="https://air.tsinghua.edu.cn/en/info/1046/1652.htm"><code>Assistant Prof. Zhao Hao</code></a>, <a href="https://scholar.google.com/citations?user=Hfrih1EAAAAJ&hl=en"><code>Assistant Prof. Hongyang Li</code></a>, <a href="https://scholar.google.com/citations?user=E1aaa_kAAAAJ&hl=zh-CN"><code>Dr. Zhihui Hao</code></a>, and <code>Mr. Gaoqiang Wu</code>. I was selected for the Asian Future Leader Scholarship Program (AFLSP) for 2024–2026 (100 students per year from top Asian universities). I received my bachelor’s degree in Computer Science from the Macau University of Science and Technology (MUST) with the President Medalist Award, supervised by <a href="https://fie.must.edu.mo/id-1444/person/view/id-539.html"><code>Prof. Xiaolin Tian</code></a>. My Bachelor GPA at MUST is 3.84/4.00, and my MPhil Cumulative Grade Point Average (CGA) at HKUST is 4.30/4.30.
 
-Education
-======  
-| Degree                          | Period        | Institution                                |  
-| B.S.c in Computer Science    | 2020-2024     | Macau University of Science and Technology |  
-| MPhil Student                   | 2024-2026     | The Hong Kong University of Science and Technology |  
-| PhD Student (Expected)          | From Fall 2026| The Hong Kong University of Science and Technology |  
+## Education
+
+|  |  |
+|---|---|
+| <img src="MUST.png" alt="MUST" width="120"> | **B.Sc. in Computer Science — Macau University of Science and Technology (MUST)**<br>*2020 – 2024*<br><code>GPA 3.84/4.00</code> <code>President Medalist Award</code> |
+| <img src="HKUST.png" alt="HKUST" width="120"> | **MPhil — The Hong Kong University of Science and Technology (HKUST)**<br>*2024 – 2026*<br><code>CGA 4.30/4.30</code><br>Supervised by <a href="https://scholar.google.com/citations?user=NUV28h8AAAAJ&hl=en"><code>Associate Prof. Dasa Gu</code></a> and <a href="https://scholar.google.com/citations?user=sB519ukAAAAJ&hl=en"><code>Chair Prof. Alexis Kai Hon Lau</code></a> |
+| <img src="HKUST.png" alt="HKUST" width="120"> | **PhD (Expected) — The Hong Kong University of Science and Technology (HKUST)**<br>*From Fall 2026*<br><code>Program: IIP (AI, Data Science & Remote Sensing)</code><br>Supervised by <a href="https://scholar.google.com/citations?user=NUV28h8AAAAJ&hl=en"><code>Associate Prof. Dasa Gu</code></a> and <a href="https://scholar.google.com/citations?user=dcDrhzMAAAAJ&hl=zh-CN"><code>Chair Prof. Pan Hui</code></a> |
 
 ## Work Experiences
 
