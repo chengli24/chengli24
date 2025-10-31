@@ -61,7 +61,7 @@ Reviewer of: 2025 IROS (top conference in Robotics); IEEE Robotics and Automatio
 ## Publications
 [*] Equal contribution (Co-first author). <sup>†</sup> Corresponding author & team leader.
 
-1. **Li C**[*], Zhou K, Liu T, Wang Y, Zhuang M, Gao H, Jin B, Zhao H.  
+1. **Li C***, Zhou K, Liu T, Wang Y, Zhuang M, Gao H, Jin B, Zhao H.  
    *AVD2: Accident Video Diffusion for Accident Video Description.*  
    **ICRA 2025** (International Conference on Robotics and Automation). **Accepted** · Core A · Top Robotics Conference.  
    Preprint: [arXiv:2502.14801](https://arxiv.org/abs/2502.14801)
