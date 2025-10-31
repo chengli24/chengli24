@@ -36,7 +36,7 @@ My research interests focus on Remote Sensing, Computer Vision, Autonomous Drivi
 | <img src="{{ '/images/QAX.jpg' | absolute_url }}" alt="QiAnXin (Macau) Inc." width="120"> | **Intern Network Security Engineer — QiAnXin (Macau) Inc.**<br>*Jul. 2023 – Aug. 2023* |
 | <img src="{{ '/images/HKU.png' | absolute_url }}" alt="HKU LSR" width="120"> | **Research Assistant — Lab for Space Research, The University of Hong Kong (HKU)**<br>*Jul. 2023* |
 | <img src="{{ '/images/CAS.png' | absolute_url }}" alt="AIR, Chinese Academy of Sciences" width="120"> | **Research Assistant — AIR, Chinese Academy of Sciences**<br>*May 2023 – Jul. 2023*<br>Advised by <a href="https://people.ucas.ac.cn/~shenzhanfeng"><code>Prof. Zhanfeng Shen</code></a> |
-| <img src="{{ '/images/PKU.png' | absolute_url }}" alt="Peking University" width="120"> | **Research Intern — Peking University**<br>*Jul. 2022 – Aug. 2022*<br>Advised by <a href="https://sess.pku.edu.cn/info/1157/2012.htm"><code>Prof. Xiuwan Chen</code></a> |
+| <img src="{{ '/images/PKU.png' | absolute_url }}" alt="Peking University" width="120"> | **Research Intern — Peking University**<br>*Jul. 2022 – Aug. 2022*<br>Advised by <a href="https://irsgis.pku.edu.cn/ls/dh1111/cxw/index.htm"><code>Prof. Xiuwan Chen</code></a> |
 | <img src="{{ '/images/MUST.png' | absolute_url }}" alt="MUST State Key Laboratory of Lunar and Planetary Sciences" width="120"> | **Research Assistant — State Key Laboratory of Lunar and Planetary Sciences, Macau University of Science and Technology**<br>*Jul. 2021 – May. 2024*<br>Advised by <a href="https://fie.must.edu.mo/id-1444/person/view/id-539.html"><code>Prof. Xiaolin Tian</code></a> |  
 
 <div style="font-family: 'Times New Roman', Times, serif; line-height: 1.65;" markdown="1">
