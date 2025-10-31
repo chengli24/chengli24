@@ -28,10 +28,10 @@ Education
 | <img src="liAuto.png" alt="Li Auto" width="120"> | **Intern LLM Autonomous Driving Algorithm Engineer — Li Auto & Shanghai Innovation Institute**  \
 *Nov. 2025 – present* |
 Advised by [Assistant Prof. Zhao Hao](https://air.tsinghua.edu.cn/en/info/1046/1652.htm), [Assistant Prof. Hongyang Li](https://scholar.google.com/citations?user=Hfrih1EAAAAJ&hl=en), [Dr. Zhihui Hao](https://scholar.google.com/citations?user=E1aaa_kAAAAJ&hl=zh-CN) and Mr. Gaoqiang Wu.|
-| <img src="lightwheel.png" alt="Lightwheel AI Inc." width="120"> | **Intern Engineer — Lightwheel Inc.**  \
+| <img src="Lightwheel.png" alt="Lightwheel AI Inc." width="120"> | **Intern Engineer — Lightwheel Inc.**  \
 *Mar. 2025 – Sep. 2025* |
 Advised by [Assistant Prof. Zhao Hao](https://air.tsinghua.edu.cn/en/info/1046/1652.htm) |
-| <img src="TsinghuaAIR.jpg" alt="AIR Tsinghua University" width="120"> | **Research Assistant — AIR, Tsinghua University**  \
+| <img src="TsinghuaAIR.jfif" alt="AIR Tsinghua University" width="120"> | **Research Assistant — AIR, Tsinghua University**  \
 *Jan. 2024 – present*  \
 Advised by [Assistant Prof. Zhao Hao](https://air.tsinghua.edu.cn/en/info/1046/1652.htm) |
 | <img src="QAX.jpg" alt="QiAnXin (Macau) Inc." width="120"> | **Intern Network Security Engineer — QiAnXin (Macau) Inc.**  \
