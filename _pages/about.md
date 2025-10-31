@@ -59,18 +59,16 @@ Services:
 Reviewer of: 2025 IROS (top conference in Robotics); IEEE Robotics and Automation Letters (top journal in Robotics); Signal, Image and Video Processing (JCR Q3)
 
 ## Publications
-<sup>*</sup> Equal contribution (Co-first author). <sup>†</sup> Corresponding author & team leader.
+[^eq] Equal contribution (Co-first author). <sup>†</sup> Corresponding author & team leader.
 
-1. **Li C**<sup>*</sup>, Zhou K, Liu T, Wang Y, Zhuang M, Gao H, Jin B, Zhao H.  
+1. **Li C**[^eq], Zhou K, Liu T, Wang Y, Zhuang M, Gao H, Jin B, Zhao H.  
    *AVD2: Accident Video Diffusion for Accident Video Description.*  
-   **ICRA 2025 (International Conference on Robotics and Automation)**, 2025.  
-   <code>Equal Contribution</code> <code>Accepted</code> <code>Core A</code> <code>Top Robotics Conference</code>  
-   DOI/Preprint: [arXiv:2502.14801](https://arxiv.org/abs/2502.14801)
+   **ICRA 2025** (International Conference on Robotics and Automation). **Accepted** · Core A · Top Robotics Conference.  
+   Preprint: [arXiv:2502.14801](https://arxiv.org/abs/2502.14801)
 
-2. Ma Y, Huang Y, **Li C**<sup>*</sup>, Chen S, Yang S, Zheng Y, Li J, Huan Y.  
+2. Ma Y, Huang Y, **Li C**[^eq], Chen S, Yang S, Zheng Y, Li J, Huan Y.  
    *A Hybrid Brain-Computer Interface based Wearable Exoskeleton System for Fine-Grained Hand Rehabilitation.*  
-   **IEEE BioCAS 2024 (Biomedical Circuits and Systems Conference)**, 2024.  
-   <code>Equal Contribution</code> <code>Published</code> <code>Premier Biomedical Circuits Conference</code>  
+   **IEEE BioCAS 2024** (Biomedical Circuits and Systems Conference). **Published** · Premier Biomedical Circuits Conference.  
    DOI: [10.1109/BDAI62182.2024.10692889](https://ieeexplore.ieee.org/document/10798270)
 
 3. **Li C**, Liang Z.-X., Gu D., et al.  
@@ -125,7 +123,7 @@ Reviewer of: 2025 IROS (top conference in Robotics); IEEE Robotics and Automatio
     <code>Published</code>  
     DOI: [10.1145/3718491.3718545](https://doi.org/10.1145/3718491.3718545)
 
-13. Chen S, **Li C**<sup>*</sup>, Ma Y, Liang J, Zhu J, Tian X.  
+13. Chen S, **Li C**[^eq], Ma Y, Liang J, Zhu J, Tian X.  
     *Deep Learning Techniques for Lunar Impact Crater Identification Based on CCD and DEM Data.*  
     In: Deligiannidis L., et al. (eds) **CSCE 2024**. *Communications in Computer and Information Science*, vol 2262. **Springer**.  
     <code>Published</code> <code>Co-first Authors</code>  
