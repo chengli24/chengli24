@@ -25,28 +25,15 @@ Education
 
 |  |  |
 |---|---|
-| <img src="LiAuto.png" alt="Li Auto" width="120"> | **Intern LLM Autonomous Driving Algorithm Engineer — Li Auto & Shanghai Innovation Institute**  \
-*Nov. 2025 – present* |
-Advised by [Assistant Prof. Zhao Hao](https://air.tsinghua.edu.cn/en/info/1046/1652.htm), [Assistant Prof. Hongyang Li](https://scholar.google.com/citations?user=Hfrih1EAAAAJ&hl=en), [Dr. Zhihui Hao](https://scholar.google.com/citations?user=E1aaa_kAAAAJ&hl=zh-CN) and Mr. Gaoqiang Wu.|
-| <img src="Lightwheel.png" alt="Lightwheel AI Inc." width="120"> | **Intern Engineer — Lightwheel Inc.**  \
-*Mar. 2025 – Sep. 2025* |
-Advised by [Assistant Prof. Zhao Hao](https://air.tsinghua.edu.cn/en/info/1046/1652.htm) |
-| <img src="TsinghuaAIR.jfif" alt="AIR Tsinghua University" width="120"> | **Research Assistant — AIR, Tsinghua University**  \
-*Jan. 2024 – present*  \
-Advised by [Assistant Prof. Zhao Hao](https://air.tsinghua.edu.cn/en/info/1046/1652.htm) |
-| <img src="QAX.jpg" alt="QiAnXin (Macau) Inc." width="120"> | **Intern Network Security Engineer — QiAnXin (Macau) Inc.**  \
-*Jul. 2023 – Aug. 2023* |
-| <img src="HKU.png" alt="HKU LSR" width="120"> | **Research Assistant — Lab for Space Research, The University of Hong Kong (HKU)**  \
-*Jul. 2023* |
-| <img src="CAS.png" alt="AIR, Chinese Academy of Sciences" width="120"> | **Research Assistant — AIR, Chinese Academy of Sciences**  \
-*May 2023 – Jul. 2023*  \
-Advised by [Prof. Zhanfeng Shen](https://people.ucas.ac.cn/~shenzhanfeng) |
-| <img src="PKU.png" alt="Peking University" width="120"> | **Research Intern — Peking University**  \
-*Jul. 2022 – Aug. 2022*  \
-Advised by [Prof. Xiuwan Chen](https://sess.pku.edu.cn/info/1157/2012.htm) |
-| <img src="MUST.png" alt="Peking University" width="120"> | **Research Assistant — State Key Laboratory of Lunar and Planetary Sciences, Macau University of Science and Technology**  \
-*Jul. 2021 – May. 2024*  \
-Advised by [Prof. Xiaolin Tian](https://fie.must.edu.mo/id-1444/person/view/id-539.html) |
+| <img src="LiAuto.png" alt="Li Auto" width="120"> | **Intern LLM Autonomous Driving Algorithm Engineer — Li Auto & Shanghai Innovation Institute**<br>*Nov. 2025 – present*<br>Advised by <a href="https://air.tsinghua.edu.cn/en/info/1046/1652.htm"><code>Assistant Prof. Zhao Hao</code></a>, <a href="https://scholar.google.com/citations?user=Hfrih1EAAAAJ&hl=en"><code>Assistant Prof. Hongyang Li</code></a>, <a href="https://scholar.google.com/citations?user=E1aaa_kAAAAJ&hl=zh-CN"><code>Dr. Zhihui Hao</code></a> and <code>Mr. Gaoqiang Wu</code> |
+| <img src="Lightwheel.png" alt="Lightwheel AI Inc." width="120"> | **Intern Engineer — Lightwheel AI Inc.**<br>*Mar. 2025 – Sep. 2025*<br>Advised by <a href="https://air.tsinghua.edu.cn/en/info/1046/1652.htm"><code>Assistant Prof. Zhao Hao</code></a> |
+| <img src="TsinghuaAIR.jfif" alt="AIR Tsinghua University" width="120"> | **Research Assistant — AIR, Tsinghua University**<br>*Jan. 2024 – present*<br>Advised by <a href="https://air.tsinghua.edu.cn/en/info/1046/1652.htm"><code>Assistant Prof. Zhao Hao</code></a> |
+| <img src="QAX.jpg" alt="QiAnXin (Macau) Inc." width="120"> | **Intern Network Security Engineer — QiAnXin (Macau) Inc.**<br>*Jul. 2023 – Aug. 2023* |
+| <img src="HKU.png" alt="HKU LSR" width="120"> | **Research Assistant — Lab for Space Research, The University of Hong Kong (HKU)**<br>*Jul. 2023* |
+| <img src="CAS.png" alt="AIR, Chinese Academy of Sciences" width="120"> | **Research Assistant — AIR, Chinese Academy of Sciences**<br>*May 2023 – Jul. 2023*<br>Advised by <a href="https://people.ucas.ac.cn/~shenzhanfeng"><code>Prof. Zhanfeng Shen</code></a> |
+| <img src="PKU.png" alt="Peking University" width="120"> | **Research Intern — Peking University**<br>*Jul. 2022 – Aug. 2022*<br>Advised by <a href="https://sess.pku.edu.cn/info/1157/2012.htm"><code>Prof. Xiuwan Chen</code></a> |
+| <img src="MUST.png" alt="MUST State Key Laboratory of Lunar and Planetary Sciences" width="120"> | **Research Assistant — State Key Laboratory of Lunar and Planetary Sciences, Macau University of Science and Technology**<br>*Jul. 2021 – May. 2024*<br>Advised by <a href="https://fie.must.edu.mo/id-1444/person/view/id-539.html"><code>Prof. Xiaolin Tian</code></a> |
+
 
 
 Awards & Prizes
