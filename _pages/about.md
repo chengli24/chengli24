@@ -98,8 +98,9 @@ Reviewer of: 2025 IROS (top conference in Robotics); IEEE Robotics and Automatio
    <code>Corresponding Author</code> <code>Team Leader</code> <code>Under Review</code>
 
 10. Yang Q, Ye B, Tian X, **Li C**.  
-   *Mud Volcano Detection Algorithm Based on Multi-scale Dynamic Sensory Field Mechanism.*  
-   <code>Published</code>
+   *Mud Volcano Detection Algorithm Based on Multi-scale Dynamic Sensory Field Mechanism.*
+   **IEEE Transactions on Geoscience and Remote Sensing**  
+   <code>Published</code>  
    DOI: [10.1109/TGRS.2025.3624086](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11214176)
 
 12. Tian Y, **Li C**, Tian X.  
