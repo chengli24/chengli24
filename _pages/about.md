@@ -97,47 +97,48 @@ Reviewer of: 2025 IROS (top conference in Robotics); IEEE Robotics and Automatio
    *OSDA: A Framework for Open-Set Discovery and Automatic Interpretation of Land-cover in Remote Sensing Imagery.*  
    <code>Corresponding Author</code> <code>Team Leader</code> <code>Under Review</code>
 
-10. Yang Q, Ye B, **Li C**, Tian X.  
-   *Unveiling Mars' Water Potential: A Novel Multi-scale Dynamic Sensory Field Algorithm for Mud Volcano Detection.*  
-   <code>Major Revision</code> <code>Under 2nd Round Review</code>
+10. Yang Q, Ye B, Tian X, **Li C**.  
+   *Mud Volcano Detection Algorithm Based on Multi-scale Dynamic Sensory Field Mechanism.*  
+   <code>Published</code>
+   DOI: [10.1109/TGRS.2025.3624086](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11214176)
 
-11. Tian Y, **Li C**, Tian X.  
+12. Tian Y, **Li C**, Tian X.  
    *Image Feature Recognition Method, System, Electronic Device and Storage Medium.*  
    **China Invention Patent**, 2024.  
    <code>Public</code> <code>Substantive Review in Progress</code>  
    App. No.: [CN118736345A](http://epub.cnipa.gov.cn/patent/CN118736345A)
 
-12. **Li C**, Cui H, Tian X.  
+13. **Li C**, Cui H, Tian X.  
     *Remote Sensing Image Segmentation of Wetlands in Macau Based on Machine Learning.*  
     **Journal of Physics: Conference Series**, 2023, 2665:012006.  
     <code>Published</code>  
     DOI: [10.1088/1742-6596/2665/1/012006](https://doi.org/10.1088/1742-6596/2665/1/012006)
 
-13. **Li C**, Chen S, Ma Y, Song M, Tian X, Cui H.  
+14. **Li C**, Chen S, Ma Y, Song M, Tian X, Cui H.  
     *Wheat Pest Identification Based on Deep Learning Techniques.*  
     **2024 IEEE 7th International Conference on Big Data and Artificial Intelligence (BDAI)**, 2024: 87–91.  
     <code>Published</code>  
     DOI: [10.1109/BDAI62182.2024.10692889](https://doi.org/10.1109/BDAI62182.2024.10692889)
 
-14. Cui H, **Li C**.  
+15. Cui H, **Li C**.  
     *Machine Learning Based River Segmentation with GF-2 Satellite Imagery.*  
     **AIBDF '24: Proceedings of the 4th Asia-Pacific Artificial Intelligence and Big Data Forum**, 2024: 325–328.  
     <code>Published</code>  
     DOI: [10.1145/3718491.3718545](https://doi.org/10.1145/3718491.3718545)
 
-15. Chen S\*, **Li C**\*, Ma Y\*, Liang J, Zhu J, Tian X.  
+16. Chen S\*, **Li C**\*, Ma Y\*, Liang J, Zhu J, Tian X.  
     *Deep Learning Techniques for Lunar Impact Crater Identification Based on CCD and DEM Data.*  
     In: Deligiannidis L., et al. (eds) **CSCE 2024**. *Communications in Computer and Information Science*, vol 2262. **Springer**.  
     <code>Published</code> <code>Co-first Authors</code>  
     DOI: [10.1007/978-3-031-85933-5_4](https://doi.org/10.1007/978-3-031-85933-5_4)
 
-16. Cui H, Liang J, **Li C**, Tian X.  
+17. Cui H, Liang J, **Li C**, Tian X.  
     *Improved Convolutional Neural Network with Attention Mechanisms for River Extraction.*  
     **Water**, 2025, 17:1762.  
     <code>Published</code>  
     DOI: [10.3390/w17121762](https://doi.org/10.3390/w17121762)
 
-17. **李承**, 崔瀚文, 田小林.  
+18. **李承**, 崔瀚文, 田小林.  
     *基于卷积神经网络的澳门湿地遥感图像分割研究.*  
     **澳門科技大學學報（人文社會科學版）**, 2024, 18(4):123–146.  
     <code>Published</code>  
