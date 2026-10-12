@@ -49,8 +49,8 @@ Awards & Prizes
 6. Awarded First Prize of the 2024 (19th) Cross-Strait and Hong Kong-Macao College Student Computer Innovation Competition Finals. (Including China Mainland, Taiwan, Hong Kong and Macao)  
 7. Awarded First Prize of the 2024 Zhuhai-Macau Computer Design Competition (Big Data and Artificial Intelligence Technology Application Track).  
 8. Awarded the Bank of China Scholarship for 2021 - 2022.  
-9. Awarded the Dean' s Scholarship for 2021 - 2022 in the School of Computer Science and Engineering, Macau University of Science and Technology.  
-10. Awarded 2023-2024 Academic Excellent Award in the Macau University of Science and Technology.  
+9. Awarded the Dean' s Scholarship for 2021 - 2022 in the School of Computer Science and Engineering, MUST  
+10. Awarded 2023-2024 Academic Excellent Award in the MUST  
 11. Awarded the Grand (First) Prize in the annual finals of the 5th "Bei Dou Star" Innovation and Innovation Competition (Silk Road International Challenge) organized by China Satellite Navigation Association.
 12. Awarded 2025 Dream Builder HKUST Entrepreneurship Center Funding.
 
